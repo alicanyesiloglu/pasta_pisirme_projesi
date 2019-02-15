@@ -1,0 +1,10 @@
+C:\Users\docal\source\repos\ders 36 pasta pişirme projesi\ders 36 pasta pişirme projesi\bin\Debug\ders 36 pasta pişirme projesi.exe.config
+C:\Users\docal\source\repos\ders 36 pasta pişirme projesi\ders 36 pasta pişirme projesi\bin\Debug\ders 36 pasta pişirme projesi.exe
+C:\Users\docal\source\repos\ders 36 pasta pişirme projesi\ders 36 pasta pişirme projesi\bin\Debug\ders 36 pasta pişirme projesi.pdb
+C:\Users\docal\source\repos\ders 36 pasta pişirme projesi\ders 36 pasta pişirme projesi\obj\Debug\ders 36 pasta pişirme projesi.csprojAssemblyReference.cache
+C:\Users\docal\source\repos\ders 36 pasta pişirme projesi\ders 36 pasta pişirme projesi\obj\Debug\ders_36_pasta_pişirme_projesi.Form1.resources
+C:\Users\docal\source\repos\ders 36 pasta pişirme projesi\ders 36 pasta pişirme projesi\obj\Debug\ders_36_pasta_pişirme_projesi.Properties.Resources.resources
+C:\Users\docal\source\repos\ders 36 pasta pişirme projesi\ders 36 pasta pişirme projesi\obj\Debug\ders 36 pasta pişirme projesi.csproj.GenerateResource.cache
+C:\Users\docal\source\repos\ders 36 pasta pişirme projesi\ders 36 pasta pişirme projesi\obj\Debug\ders 36 pasta pişirme projesi.csproj.CoreCompileInputs.cache
+C:\Users\docal\source\repos\ders 36 pasta pişirme projesi\ders 36 pasta pişirme projesi\obj\Debug\ders 36 pasta pişirme projesi.exe
+C:\Users\docal\source\repos\ders 36 pasta pişirme projesi\ders 36 pasta pişirme projesi\obj\Debug\ders 36 pasta pişirme projesi.pdb
